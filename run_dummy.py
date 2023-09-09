@@ -1,5 +1,3 @@
-%%writefile run_dummy.py
-
 import time
 from datetime import datetime
 
